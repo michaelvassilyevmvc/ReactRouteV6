@@ -41,3 +41,13 @@ footer{
   font-size: 22px;
   font-weight: bold;
 }
+
+main {
+  min-height: calc(100vh - 200px - 50px);
+  padding-top: 1.5rem;
+  padding-bottom:1.5rem;
+}
+
+.active-link{
+  color:#0760cf;
+}
